@@ -1,4 +1,4 @@
-package com.example.filecompressionstorage.api.config;
+package com.example.filestorage.api.config;
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

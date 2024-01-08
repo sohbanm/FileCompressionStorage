@@ -1,4 +1,4 @@
-package com.example.filecompressionstorage.api.service;
+package com.example.filestorage.api.service;
 
 import com.amazonaws.HttpMethod;
 import com.amazonaws.services.s3.AmazonS3;
